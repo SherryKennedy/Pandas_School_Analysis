@@ -5,6 +5,19 @@ More Python coding.
 
 Analyzing city school data to make future school budget decisions. 
 
+### Setup
+
+* Inside the local git repository, created a folder for the Python/Pandas Challenge. 
+   **CitySchools** 
+   
+*  The analysis can be seen in the files: 'School Data Analysis.RTF' or 'School Data Analysis.DOCX'
+
+* Inside of this folder 'CitySchools'; added the following:
+
+  * A new file called `CitySchools.ipynb`. This is the main script to run for analysis.
+  * A "Resources" folder that contains the CSV files used. Make sure the script has the correct path to the CSV file.
+
+
 ### District Summary
 * A table that summarizes key metrics about each school, including:
 * Total Schools
