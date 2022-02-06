@@ -67,6 +67,8 @@ Analyzing city school data to make future school budget decisions.
 
 * Repeated the above breakdown, but this time grouped schools based on a reasonable approximation of school size (Small, Medium, Large).
 
+![Table of Scores by School Size](ScoreBySchoolSize.jpg)
+
 ### Scores by School Type
 
 * Repeated the above breakdown, but this time group schools based on school type (Charter vs. District).
